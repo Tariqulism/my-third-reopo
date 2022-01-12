@@ -1,4 +1,9 @@
-h1{
+h2{
     text-align: center;
     background-color: purple;
+}
+
+p{
+    background-color: red;
+    color: black;
 }
